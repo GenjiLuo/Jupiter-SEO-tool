@@ -1,6 +1,6 @@
 <?php
 
-require_once "simpleSeoReport.php";
+require_once "jupiterSeoReport.php";
 
 if(isset($_POST["url"])){
 	

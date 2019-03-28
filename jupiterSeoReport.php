@@ -14,8 +14,8 @@
 /**
  * Class SeoReport
  * @filesource SeoReport.php
- * @category SEO Report Generator
- * @version v1.1
+ * @category Jupiter SEO Report Generator
+ * @version v1.0
  * @author Davide Guerra
  */
 class SeoReport{
