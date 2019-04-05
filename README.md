@@ -1,8 +1,8 @@
 # Jupiter
-A simple SEO report generator.
+A useful SEO report generator you can run for a quick website analysis.
 
 ## Features
-This script scans a user-provided URL and displays:
+This script scans a user-provided URL and checks:
 * Google preview
 * website availability
 * page loading time
